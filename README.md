@@ -1,8 +1,5 @@
-## Trabajo final de Optimización
+## Optimization course assignments
 
-El cálculo analítico de derivadas y su implementación es tediosa, y está sujeta a error. Se estudian los sistemas de diferenciación automática para cálculo de gradientes y hessianos, y se implementa una versión simple, integrandola a la optimización con métodos clásicos (gradiente, gradientes conjugados, Newton, etc.).
-
-
-## Optimization course final assignment
-
-The analytical calculation of derivatives and their implementation is tedious and subject to error. Automatic differentiation systems for calculating gradients and Hessians are studied, and a simple version is implemented, integrating it to optimization classical methods (gradient, conjugate gradients, Newton, etc.).
+- Assignment 1: gradient descent methods, random restart and performance profile
+- Assignment 1: Touring problem, Simulated Annealing and Stochastic Hill Climbing, Genetic Algorithms
+- Final Assignment: Implementation of Automatic differentiation in MatLab, and aplication to classical optimization methods
